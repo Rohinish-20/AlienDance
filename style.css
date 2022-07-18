@@ -1,0 +1,49 @@
+body
+{
+ background-color: darkslategray;
+ font-family: 'Cormorant SC', serif;
+}
+
+.header_div
+{
+ background-color: greenyellow;
+ color: rgb(55, 0, 255);
+}
+
+.header_div h2
+{
+ font-size: 20px;
+}
+
+.header_div p
+{
+ font-family: 'Edu TAS Beginner', cursive;
+ font-size: 20px;
+ letter-spacing: 2px;
+ font-weight: bold;
+ color: blue;
+}
+
+.main_div button
+{
+ letter-spacing: 2px;
+ font-weight: bold;
+ width: 130px;
+ margin-top: 10px;
+ font-size: 20px;
+ color: darkviolet;
+ background-color: gold;
+}
+
+.footer
+{
+ background-color: limegreen;
+ color: blanchedalmond;
+ width: 100%;
+ text-align: center;
+ font-size: 15px;
+ position: fixed;
+ bottom: 0;
+ line-height: 3;
+ text-shadow: 5px 5px 5px silver;
+}
